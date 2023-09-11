@@ -1,4 +1,4 @@
-#printa o modelo mais econômico digitafo e mostra o quanto ele gasta, considerando a gasolina a 3,50 reais (bem dificil k)
+#printa o modelo mais econômico digitafo e mostra o quanto ele gasta, considerando a gasolina a 3,50 reais 
 lista=[]
 econom=0
 n=int(input("Digite a quantidade de carros que você deseja: "))
